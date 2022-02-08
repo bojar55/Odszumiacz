@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1612110461 source:c:\users\jakub\desktop\pps\moje\pps jb\main.cpp
+	<iostream>
+	<cstdarg>
+	<iomanip>
+	<math.h>
+	"AudioFile.h"
+
+1582899076 c:\users\jakub\desktop\pps\moje\pps jb\audiofile.h
+	<iostream>
+	<vector>
+	<assert.h>
+	<string>
+	<fstream>
+	<unordered_map>
+	<iterator>
+	<algorithm>
+
